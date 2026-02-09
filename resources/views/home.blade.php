@@ -163,7 +163,7 @@
 
             <div>
                 <h4 class="text-xl font-bold mb-6">Lokasi</h4>
-                <p class="text-gray-300">Jalan Contoh No. 123, Kecamatan Contoh, Kota Contoh, Provinsi — 12345</p>
+                <p class="text-gray-300">Jalan Raya Serang No. 123, Kecamatan Cikupa, Kabupaten Tangerang, Provinsi — Banten</p>
             </div>
         </div>
 
